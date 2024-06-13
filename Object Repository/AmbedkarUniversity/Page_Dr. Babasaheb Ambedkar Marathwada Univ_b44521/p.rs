@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p</name>
+   <tag></tag>
+   <elementGuidId>a2eda2f8-21e9-4a8b-949d-c063d797cca0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dnn_ctr16550_HtmlModule_lblContent']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dnn_ctr16550_HtmlModule_lblContent > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#dnn_ctr16550_HtmlModule_lblContent >> internal:role=paragraph >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f680e2c8-a142-48cf-9de6-48c1837709fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dnn_ctr16550_HtmlModule_lblContent&quot;)/p[1]</value>
+      <webElementGuid>ab85e609-78b4-4c17-ac58-02c72ced7709</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dnn_ctr16550_HtmlModule_lblContent']/p</value>
+      <webElementGuid>6c86b46d-a8a1-46f8-b2fe-858a222aac71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annual Convocation- 2024'])[1]/following::p[2]</value>
+      <webElementGuid>1abfc4b9-fdb6-40b5-886c-9ae5a8e806aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Registration for Academic Bank of Credits ID(ABC ID)'])[1]/following::p[2]</value>
+      <webElementGuid>07610d7f-e526-40a5-b2e2-ef3ab2923d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(View Details)'])[1]/preceding::p[1]</value>
+      <webElementGuid>c110e048-922b-43de-9a49-d45b01ddf672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/p</value>
+      <webElementGuid>f291ae9e-85d5-4da3-94e1-fb37e8a5c9b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Department of Biochemistry</name>
+   <tag></tag>
+   <elementGuidId>5006f140-fd0f-4b00-9536-9c74a1b72e01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dnn_ctr18227_HtmlModule_lblContent']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dnn_ctr18227_HtmlModule_lblContent > ul > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Department of Biochemistry&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>883573f9-b485-4216-942b-fe4f25a4a697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/default.aspx?alias=www.bamu.ac.in/dept-of-bio-chemistry</value>
+      <webElementGuid>d286286f-fcf8-420b-b491-78516e2651c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>ad82fd82-8848-4482-9198-f0f70c58ed93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Department of Biochemistry</value>
+      <webElementGuid>39374177-0a0c-40da-a4ca-7efdaa8107a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dnn_ctr18227_HtmlModule_lblContent&quot;)/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>14e15c68-0b43-4153-bd0e-48b230a15bd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dnn_ctr18227_HtmlModule_lblContent']/ul/li/a</value>
+      <webElementGuid>1f3f1d4a-6d66-42df-8899-d3fd1f57dc4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Department of Biochemistry')]</value>
+      <webElementGuid>b35e381e-a6ed-44db-865d-c66ce33fb4df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='University Campus'])[1]/following::a[1]</value>
+      <webElementGuid>c3bbed27-7cfa-4e92-bfcc-29eb381cf211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Faculty of Science and Technology'])[1]/following::a[1]</value>
+      <webElementGuid>65163a47-5875-434b-8f19-5f7a1f0c0f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department of Botany'])[1]/preceding::a[1]</value>
+      <webElementGuid>c7120bee-744d-4c8d-af92-4d186cc8b053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department of Chemical Technology'])[1]/preceding::a[2]</value>
+      <webElementGuid>5958ee79-1126-40c4-91ce-a57b1836da6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Department of Biochemistry']/parent::*</value>
+      <webElementGuid>b8ac2872-ddcc-4677-8223-76043dd87b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/default.aspx?alias=www.bamu.ac.in/dept-of-bio-chemistry')]</value>
+      <webElementGuid>d40b7c2a-6f63-4159-9429-e53b75bd7a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/ul/li/a</value>
+      <webElementGuid>6abcb3d5-f429-4407-a41c-78d216cfe2dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/default.aspx?alias=www.bamu.ac.in/dept-of-bio-chemistry' and (text() = 'Department of Biochemistry' or . = 'Department of Biochemistry')]</value>
+      <webElementGuid>f67c575f-797c-406a-b45b-e29cbd8783ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

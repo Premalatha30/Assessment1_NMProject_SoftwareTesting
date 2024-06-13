@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome to Dr. Babasaheb Ambedkar Marat_3c0b47</name>
+   <tag></tag>
+   <elementGuidId>8aba4d2d-0756-4fa9-9f7a-924685dc37ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SpeedyCameraSlider16186']/div/div[6]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.camera_stop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.camera_stop >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04f7a971-791d-4f15-b44f-6cfc089e5bc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>camera_stop</value>
+      <webElementGuid>d191d013-cb48-4d48-83d0-6417963147fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SpeedyCameraSlider16186&quot;)/div[@class=&quot;camera_fakehover&quot;]/div[@class=&quot;camera_commands&quot;]/div[@class=&quot;camera_stop&quot;]</value>
+      <webElementGuid>730eb440-fd3d-4e7a-af21-3bd2fd767007</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SpeedyCameraSlider16186']/div/div[6]/div[2]</value>
+      <webElementGuid>05199441-d5c4-45cc-be33-8a68008eea79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]</value>
+      <webElementGuid>2727c9cb-708e-4f46-8f2c-2babd6b32817</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

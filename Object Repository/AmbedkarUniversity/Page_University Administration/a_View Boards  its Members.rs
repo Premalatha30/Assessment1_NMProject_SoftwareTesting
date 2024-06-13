@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Boards  its Members</name>
+   <tag></tag>
+   <elementGuidId>6e48ab7e-50d1-4f5d-ad08-c6cbcde5b1ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dnn_ctr536_HtmlModule_lblContent']/ul[4]/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul:nth-of-type(4) > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;View Boards &amp; its Members&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>624d10f3-3f89-4dbe-95f2-74f95c4fd4f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Portals/0/various_boards_of_university_10-12-2019.pdf</value>
+      <webElementGuid>bb2b6ad1-4c56-40ee-aa5b-3c8823cb5199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>3c298d60-4993-4bd3-9cbc-07f39f51f1c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Boards &amp; its Members</value>
+      <webElementGuid>4cf1b62f-ffe8-403e-9fcb-1fa9d41836d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dnn_ctr536_HtmlModule_lblContent&quot;)/ul[4]/li[1]/a[1]</value>
+      <webElementGuid>86ec5f1c-ba62-4a0c-bd0d-4b7824d7231b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dnn_ctr536_HtmlModule_lblContent']/ul[4]/li/a</value>
+      <webElementGuid>3f89bdd9-ec38-4b64-9bb5-9b69aa87864f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Boards &amp; its Members')]</value>
+      <webElementGuid>fb945dfc-8866-46b7-85e1-7f0a6629367f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Various Boards'])[1]/following::a[1]</value>
+      <webElementGuid>4260dc29-6177-4e9a-8d02-a4579804788b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building &amp; Works Committee'])[1]/following::a[1]</value>
+      <webElementGuid>d74b9823-459a-4158-9a3a-8b51296567ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Officers of the University'])[1]/preceding::a[2]</value>
+      <webElementGuid>6cc54d9f-89fa-45b9-83ac-7ea31d7c6c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chancellor'])[1]/preceding::a[2]</value>
+      <webElementGuid>4b346a8b-2aae-4d97-b136-e63afd580830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Boards &amp; its Members']/parent::*</value>
+      <webElementGuid>3ca6b7c3-180e-40a7-95c4-84bf9e69021f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Portals/0/various_boards_of_university_10-12-2019.pdf')]</value>
+      <webElementGuid>8474ba7a-544f-4cc3-b20d-a07b7ada6a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[4]/li/a</value>
+      <webElementGuid>b08dc267-98d1-4cae-96b3-2b108bd7994a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Portals/0/various_boards_of_university_10-12-2019.pdf' and (text() = 'View Boards &amp; its Members' or . = 'View Boards &amp; its Members')]</value>
+      <webElementGuid>dc34cacf-9248-4bd9-aa2f-600a2eec1747</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

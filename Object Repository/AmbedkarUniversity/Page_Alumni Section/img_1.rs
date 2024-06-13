@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>e59a7bc2-3310-402e-b40a-642225c39c4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dnn_ctr597_HtmlModule_lblContent']/p[3]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Click here for Alumni Portal&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Click here for Alumni Portal&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>82ee5b01-39cd-4d35-82bf-2f9cc85a444a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Click here for Alumni Portal</value>
+      <webElementGuid>385c5d51-b590-4ca7-a20d-05f8dea937d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/portals/0/alumni-portal1.jpg</value>
+      <webElementGuid>5fcc1b32-f321-4542-96cd-62cf0e970f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Click here for Alumni Portal</value>
+      <webElementGuid>fa1885ac-9af7-451a-8181-5a542252cf3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dnn_ctr597_HtmlModule_lblContent&quot;)/p[3]/a[1]/img[1]</value>
+      <webElementGuid>d6fad138-f333-4c38-b28a-25fe354e34ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dnn_ctr597_HtmlModule_lblContent']/p[3]/a/img</value>
+      <webElementGuid>232c6768-fe1c-44de-aeef-8a5c77740637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Click here for Alumni Portal']</value>
+      <webElementGuid>5d989fdb-aa5b-41cd-90de-ee776aefe0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/a/img</value>
+      <webElementGuid>916ba3eb-66f1-4cfc-88f1-c054ea1bec97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Click here for Alumni Portal' and @src = '/portals/0/alumni-portal1.jpg' and @title = 'Click here for Alumni Portal']</value>
+      <webElementGuid>161ef094-8628-45aa-87f0-2dbebd321ac7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

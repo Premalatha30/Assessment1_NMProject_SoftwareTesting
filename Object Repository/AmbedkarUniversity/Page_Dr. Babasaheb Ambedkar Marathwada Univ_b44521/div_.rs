@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>1d4ad1a4-96c4-434b-9c16-41694df80c77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dnn_ctr11278_HtmlModule_lblContent']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dnn_ctr11278_HtmlModule_lblContent > div.container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#dnn_ctr11278_HtmlModule_lblContent > .container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>886e4ce5-a84d-4435-8531-6bd4761a4b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>96674f8a-b401-415a-bbfd-c250c21910c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                                   
+</value>
+      <webElementGuid>85f4dd3b-363a-41d9-b849-3ab058044391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dnn_ctr11278_HtmlModule_lblContent&quot;)/div[@class=&quot;container&quot;]</value>
+      <webElementGuid>17876f48-fdc0-43e4-9557-ffdfd8ef9683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dnn_ctr11278_HtmlModule_lblContent']/div</value>
+      <webElementGuid>ff38f26e-3675-40fe-85dd-fd8c6a18148c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(View Part-2) l'])[2]/following::div[10]</value>
+      <webElementGuid>013e605c-ae2e-4588-96db-1b0db3bcaea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proposed Uniform Statute for Teachers (View Part-1) l'])[1]/following::div[10]</value>
+      <webElementGuid>c7339b17-3b94-4584-8066-cc9de7851551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='डॉ. बाबासाहेब आंबेडकर मराठवाडा विद्यापीठ ,छत्रपती संभाजीनगर'])[1]/preceding::div[53]</value>
+      <webElementGuid>a9b91f74-1f16-4fcd-b5a3-0e269981a85c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='University Centres (विविध विद्यापीठ केंद्र)'])[1]/preceding::div[82]</value>
+      <webElementGuid>c774d41e-4311-46ef-8d51-24268c5c57c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>39bd148a-0501-4374-b823-9906ba594809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '                                                   
+' or . = '                                                   
+')]</value>
+      <webElementGuid>25bb9b48-fe6e-4c0e-87bb-bccd848fa736</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
